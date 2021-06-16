@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# PDF 생성 결과물 추적 제외
+output/
